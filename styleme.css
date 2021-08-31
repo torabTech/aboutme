@@ -1,0 +1,44 @@
+body{
+    background-color:lightgray;
+}
+
+h1,h2,h3{
+    color:darkslategrey;
+}
+a{
+    color: crimson;
+    text-decoration: none;
+
+}
+a:hover{
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:active{
+    color: orange;
+    text-decoration: none;
+}
+
+
+.images img{
+    display: inline;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.images span{
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+    .firstletter{
+        color: rgb(0, 0, 0);
+        float: left;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 45px;
+        line-height: 10px;
+       
+}
+
