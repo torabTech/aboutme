@@ -41,4 +41,11 @@ a:active{
         line-height: 10px;
        
 }
+dl dt{
+    font-weight: bold;
+    color: darkgreen;
+}
+dl dd{
+    color: darkslategrey;
+}
 
